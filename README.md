@@ -2,6 +2,10 @@
 
 This repository contains the Jupyter notebooks demonstrated during the "Linux Container Primitives and Runtimes" presentation at AWS Sydney Summit on Thursday May 2nd, 2019.
 
+## Slides
+
+https://www.slideshare.net/AmazonWebServices/linux-container-primitives-and-runtimes-aws-summit-sydney
+
 ## Notes
 
 These notebooks have been prepared to demonstrate interacting with cgroups, namespaces and overlay filesystems under Linux. 
