@@ -47,7 +47,7 @@ sudo usermod -a -G docker ec2-user
 Clone this repository to the instance
 
 ~~~~
-git clone https://github.com/aws-samples/linux-container-primitives-presentation-notebooks.git
+git clone https://github.com/paulgear/linux-container-primitives-presentation-notebooks.git
 ~~~~
 
 Log off and reconnect to the instance. 
